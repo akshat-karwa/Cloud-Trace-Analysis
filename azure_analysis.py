@@ -7,7 +7,7 @@ def read_csv():
 
 def graph_utilization_rates(metric):
     vm_table_data = read_csv()
-    plt.figure(figsize = (12, 6))
+    plt.figure(figsize = (10, 6)) # @Akshat, change as neeeded, we can finalize upon one
     plt.hist(vm_table_data[metric], bins = 20, rwidth = 0.95, color = "green")
     plt.title("Distribution of " + str(metric) + " CPU values, for Azure")
     plt.ylabel("Number of VMs")
