@@ -5,7 +5,7 @@
 
 ## 📌 Project Overview
 
-**Cloud Trace Analysis** is a comparative analysis of cloud resource utilization patterns across **Google Cloud**, **Microsoft Azure**, and **Alibaba Cloud**, using publicly available trace datasets. We explore the **utilization gap**—the difference between allocated and actual resource usage—and provide insights for improving **resource allocation** and reducing **operational costs**.
+**Cloud Trace Analysis** is a comparative analysis of cloud resource utilization patterns across **Google Cloud**, **Microsoft Azure**, and **Alibaba Cloud**, using publicly available trace datasets. We explore the **utilization gap** - the difference between allocated and actual resource usage—and provide insights for improving **resource allocation** and reducing **operational costs**.
 
 ---
 
